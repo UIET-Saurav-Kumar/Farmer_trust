@@ -130,3 +130,6 @@ p{
 a{
     color: red;
 }
+.alert{
+    display: none;
+}
