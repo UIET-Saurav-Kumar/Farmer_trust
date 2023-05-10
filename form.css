@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.main-app{
+    
+    text-align: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color: rgb(220, 255, 24);
+    height: 200px;
+    width:100%;
+    margin: 0px;
+}
+.back{
+    margin-top: 60px;
+    margin-left: 30px;
+    border: black solid;
+    border-radius: 20px;
+    padding:3px;
+    width: 100px;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    padding-top: 25px;
+    width: auto;
+    padding-bottom: 20px;
+}
+marquee{
+    font-family: fantasy;
+}
+.main{
+    background-color:mediumpurple;
+    height: 600px;
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 45px;
+
+}
+.form{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border: black solid;
+    height:100%;
+    padding-top: 20px;
+}
+.form1{
+    font-family: fantasy;
+}
+
+
+#name{
+    margin-bottom: 20px;
+    width: 80%;
+    border-radius: 25px;
+    height: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+#number{
+    margin-bottom: 20px;
+    width: 80%;
+    border-radius: 25px;
+    height: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+#mail{
+    margin-bottom: 20px;
+    width: 80%;
+    border-radius: 25px;
+    height: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+#city{
+    margin-bottom: 20px;
+    width: 80%;
+    border-radius: 25px;
+    height: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+#dist{
+    margin-bottom: 20px;
+    width: 80%;
+    border-radius: 25px;
+    height: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+#message{
+    margin-bottom: 45px;
+    width: 80%;
+    border-radius: 25px;
+    height: 25px;
+    font-weight: bold;
+    padding: 5px;
+
+}
+#btn{
+    background-color: black;
+    width:65%;
+    height: 25px;
+    font-size: large;
+    color: chartreuse;
+    border-radius: 25px;
+}
+.footer{
+    height: 250px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(82, 11, 112);
+    padding: 30px;
+}
+h2{
+    color: greenyellow;
+}
+p{
+    color: lightcyan;
+}
+a{
+    color: red;
+}
+.alert{
+    display: none;
+}
